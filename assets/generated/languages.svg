@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="Most-used languages">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 216" width="800" height="216" role="img" aria-label="Most-used languages">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#351522"/><stop offset="1" stop-color="#4B1F32"/></linearGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A64D65"/><stop offset="1" stop-color="#E6A6B4"/></linearGradient>
   </defs>
-  <rect x="0.75" y="0.75" width="798.5" height="198.5" rx="16" fill="url(#bg)" stroke="#C7798D" stroke-opacity="0.5" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="798.5" height="214.5" rx="16" fill="url(#bg)" stroke="#C7798D" stroke-opacity="0.5" stroke-width="1.5"/>
   <text x="32" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#FFF5F6">Most-used languages</text>
   <rect x="32" y="58" width="44" height="2.5" rx="1.25" fill="url(#bar)"/>
-  <text x="32" y="115" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#E6A6B4">Waiting for the first run of the "Update profile stats" workflow.</text>
-  <text x="768" y="186" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#C7798D">no data yet</text>
+  <clipPath id="r"><rect x="32" y="82" width="736" height="14" rx="7"/></clipPath><g clip-path="url(#r)"><rect x="32.0" y="82" width="736.0" height="14" fill="#8F3D56"/></g><rect x="32" y="82" width="736" height="14" rx="7" fill="none" stroke="#C7798D" stroke-opacity="0.35"/><circle cx="38" cy="129" r="6" fill="#8F3D56"/><text x="52" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#FFF5F6">Python <tspan fill="#E6A6B4">100.0%</tspan></text>
+  <text x="768" y="202" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#C7798D">by code size, public non-fork repos · updated 2026-11-04</text>
 </svg>
