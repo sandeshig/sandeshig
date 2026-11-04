@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Secure by design. Built in Kathmandu, Nepal.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#8F3D56"/>
+      <stop offset="0.5" stop-color="#5A2539"/>
+      <stop offset="1" stop-color="#351522"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A64D65" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E6A6B4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#A64D65" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1200" height="150" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="150" fill="url(#bg)"/>
+    <g fill="none" stroke="#E6A6B4" stroke-width="1.2" stroke-linejoin="round" opacity="0.28"><path d="M240 72 L360 72 L360 120 L360 96 L408 96"/><path d="M216 24 L216 120 L216 48"/><path d="M816 72 L864 72 L816 72 L816 0 L936 0"/><path d="M744 24 L744 72 L672 72"/><path d="M1032 120 L1032 96 L1032 144 L888 144 L1008 144"/><path d="M768 72 L768 144 L696 144 L696 150"/><path d="M744 0 L744 0 L744 0 L744 72 L816 72"/><path d="M144 24 L144 0 L0 0"/><path d="M792 120 L624 120 L624 150"/><path d="M768 72 L696 72 L696 150 L696 150 L696 78"/><path d="M1008 48 L888 48 L1056 48"/><path d="M216 24 L216 0 L264 0 L264 48 L264 144"/><path d="M888 72 L960 72 L960 0 L960 0"/><path d="M888 48 L984 48 L984 0 L1032 0 L1104 0"/><path d="M96 0 L240 0 L240 96 L240 48 L312 48"/><path d="M1080 120 L1080 96 L960 96 L960 48 L1128 48"/><path d="M48 24 L192 24 L192 48 L192 0"/><path d="M792 48 L792 24 L792 72 L960 72"/><path d="M624 0 L624 24 L624 120"/><path d="M792 96 L792 48 L840 48 L1008 48"/><path d="M648 72 L768 72 L720 72"/><path d="M720 24 L600 24 L600 72 L720 72"/></g><g fill="none" stroke="#E6A6B4" stroke-width="1.2" opacity="0.28"><circle cx="408" cy="96" r="3.5"/><circle cx="216" cy="48" r="3.5"/><circle cx="936" cy="0" r="3.5"/><circle cx="672" cy="72" r="3.5"/><circle cx="1008" cy="144" r="3.5"/><circle cx="696" cy="150" r="3.5"/><circle cx="816" cy="72" r="3.5"/><circle cx="0" cy="0" r="3.5"/><circle cx="624" cy="150" r="3.5"/><circle cx="696" cy="78" r="3.5"/><circle cx="1056" cy="48" r="3.5"/><circle cx="264" cy="144" r="3.5"/><circle cx="960" cy="0" r="3.5"/><circle cx="1104" cy="0" r="3.5"/><circle cx="312" cy="48" r="3.5"/><circle cx="1128" cy="48" r="3.5"/><circle cx="192" cy="0" r="3.5"/><circle cx="960" cy="72" r="3.5"/><circle cx="624" cy="120" r="3.5"/><circle cx="1008" cy="48" r="3.5"/><circle cx="720" cy="72" r="3.5"/><circle cx="720" cy="72" r="3.5"/></g>
+    <text x="600" y="68" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="26" fill="#FFF5F6">Secure by design. Built in Kathmandu.</text>
+    <text x="600" y="102" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#E6A6B4">sandesh@kathmandu:~$ exit 0<tspan fill="#C7798D">_</tspan></text>
+    <rect x="0" y="0" width="1200" height="2" fill="url(#rule)"/>
+  </g>
+</svg>

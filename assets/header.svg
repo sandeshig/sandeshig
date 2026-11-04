@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t d">
+  <title id="t">Sandesh Thapa</title>
+  <desc id="d">Building, Breaking and Securing Digital Experiences. Cybersecurity, Development, Networking, Infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#351522"/>
+      <stop offset="0.55" stop-color="#5A2539"/>
+      <stop offset="1" stop-color="#8F3D56"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.84" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#A64D65" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#A64D65" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#fff" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="m"><rect width="1200" height="360" fill="url(#fade)"/></mask>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E6A6B4" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#A64D65" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#A64D65" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="9" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect width="1200" height="360" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#glow)"/>
+    <g mask="url(#m)"><g fill="none" stroke="#E6A6B4" stroke-width="1.2" stroke-linejoin="round" opacity="0.5"><path d="M768 48 L768 24 L624 24 L504 24"/><path d="M912 24 L960 24 L960 0"/><path d="M1176 0 L1176 0 L1080 0 L936 0 L888 0"/><path d="M1176 216 L1032 216 L1032 168 L1128 168 L1200 168"/><path d="M744 72 L744 48 L744 120"/><path d="M960 96 L960 0 L1032 0 L1032 24 L1032 0"/><path d="M792 264 L792 288 L792 360 L792 336"/><path d="M744 240 L744 312 L744 336 L744 360 L744 360"/><path d="M600 288 L480 288 L528 288 L672 288"/><path d="M696 336 L696 360 L696 360"/><path d="M504 24 L456 24 L360 24"/><path d="M720 0 L864 0 L864 0"/><path d="M984 336 L984 360 L864 360 L864 312 L744 312"/><path d="M528 24 L528 0 L528 0 L528 0"/><path d="M864 48 L1008 48 L960 48 L960 144 L888 144"/><path d="M432 264 L432 312 L432 240 L300 240"/><path d="M744 240 L744 312 L744 360"/><path d="M1104 192 L960 192 L960 144 L960 96 L960 120"/><path d="M312 288 L300 288 L300 360 L300 360"/><path d="M408 72 L312 72 L300 72"/><path d="M816 288 L696 288 L696 192 L696 264 L816 264"/><path d="M888 264 L888 216 L1056 216"/><path d="M504 216 L504 264 L504 240 L360 240 L360 144"/><path d="M576 312 L480 312 L480 360"/><path d="M1104 144 L1200 144 L1200 192"/><path d="M1104 48 L1104 96 L1104 48 L960 48 L1008 48"/></g><g fill="none" stroke="#E6A6B4" stroke-width="1.2" opacity="0.5"><circle cx="504" cy="24" r="3.5"/><circle cx="960" cy="0" r="3.5"/><circle cx="888" cy="0" r="3.5"/><circle cx="1200" cy="168" r="3.5"/><circle cx="744" cy="120" r="3.5"/><circle cx="1032" cy="0" r="3.5"/><circle cx="792" cy="336" r="3.5"/><circle cx="744" cy="360" r="3.5"/><circle cx="672" cy="288" r="3.5"/><circle cx="696" cy="360" r="3.5"/><circle cx="360" cy="24" r="3.5"/><circle cx="864" cy="0" r="3.5"/><circle cx="744" cy="312" r="3.5"/><circle cx="528" cy="0" r="3.5"/><circle cx="888" cy="144" r="3.5"/><circle cx="300" cy="240" r="3.5"/><circle cx="744" cy="360" r="3.5"/><circle cx="960" cy="120" r="3.5"/><circle cx="300" cy="360" r="3.5"/><circle cx="300" cy="72" r="3.5"/><circle cx="816" cy="264" r="3.5"/><circle cx="1056" cy="216" r="3.5"/><circle cx="360" cy="144" r="3.5"/><circle cx="480" cy="360" r="3.5"/><circle cx="1200" cy="192" r="3.5"/><circle cx="1008" cy="48" r="3.5"/></g></g>
+
+    <!-- terminal chrome -->
+    <g transform="translate(64 44)">
+      <rect width="318" height="30" rx="8" fill="#351522" fill-opacity="0.55" stroke="#C7798D" stroke-opacity="0.35"/>
+      <circle cx="16" cy="15" r="4.5" fill="#C7798D" fill-opacity="0.9"/>
+      <circle cx="32" cy="15" r="4.5" fill="#C7798D" fill-opacity="0.55"/>
+      <circle cx="48" cy="15" r="4.5" fill="#C7798D" fill-opacity="0.3"/>
+      <text x="68" y="20" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#E6A6B4">sandesh@kathmandu:~$ whoami</text>
+    </g>
+
+    <text x="64" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="7" fill="#FFF5F6" filter="url(#soft)">SANDESH THAPA</text>
+    <text x="66" y="226" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#E6A6B4">Building, Breaking &amp; Securing Digital Experiences.</text>
+    <text x="66" y="276" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#C7798D" xml:space="preserve">Cybersecurity <tspan fill="#A64D65">|</tspan> Development <tspan fill="#A64D65">|</tspan> Networking <tspan fill="#A64D65">|</tspan> Infrastructure<tspan fill="#E6A6B4">&#160;_<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+
+    <!-- lock inside concentric hexagons -->
+    <g transform="translate(1018 180)" fill="none" stroke-linejoin="round">
+      <polygon points="0,-132 114,-66 114,66 0,132 -114,66 -114,-66" stroke="#C7798D" stroke-opacity="0.25" stroke-width="1.2"/>
+      <polygon points="0,-100 87,-50 87,50 0,100 -87,50 -87,-50" stroke="#E6A6B4" stroke-opacity="0.45" stroke-width="1.4"/>
+      <polygon points="0,-68 59,-34 59,34 0,68 -59,34 -59,-34" stroke="#E6A6B4" stroke-opacity="0.85" stroke-width="1.6" filter="url(#soft)"/>
+      <path d="M-15 -4 V-16 a15 15 0 0 1 30 0 V-4" stroke="#FFF5F6" stroke-width="3" stroke-linecap="round"/>
+      <rect x="-22" y="-4" width="44" height="34" rx="6" fill="#351522" fill-opacity="0.6" stroke="#FFF5F6" stroke-width="3"/>
+      <circle cx="0" cy="11" r="4.5" fill="#E6A6B4" stroke="none"/>
+      <path d="M0 15 V22" stroke="#E6A6B4" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <rect x="0" y="357" width="1200" height="3" fill="url(#rule)"/>
+  </g>
+</svg>

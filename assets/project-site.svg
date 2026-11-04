@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 190" width="600" height="190" role="img" aria-label="sandeshig.github.io">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#351522"/>
+      <stop offset="1" stop-color="#8F3D56"/>
+    </linearGradient>
+    <radialGradient id="g" cx="0.85" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A64D65" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A64D65" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c"><rect width="600" height="190" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="600" height="190" fill="url(#bg)"/>
+    <rect width="600" height="190" fill="url(#g)"/>
+    <g fill="none" stroke="#E6A6B4" stroke-width="1.2" stroke-linejoin="round" opacity="0.3"><path d="M528 96 L372 96 L516 96 L372 96"/><path d="M504 24 L504 72 L456 72 L372 72 L372 72"/><path d="M432 120 L432 144 L432 48"/><path d="M456 48 L372 48 L492 48"/><path d="M408 0 L372 0 L372 0"/><path d="M480 0 L372 0 L516 0"/><path d="M432 72 L372 72 L372 48"/><path d="M360 48 L372 0 L372 0 L372 48 L372 48"/></g><g fill="none" stroke="#E6A6B4" stroke-width="1.2" opacity="0.3"><circle cx="372" cy="96" r="3.5"/><circle cx="372" cy="72" r="3.5"/><circle cx="432" cy="48" r="3.5"/><circle cx="492" cy="48" r="3.5"/><circle cx="372" cy="0" r="3.5"/><circle cx="516" cy="0" r="3.5"/><circle cx="372" cy="48" r="3.5"/><circle cx="372" cy="48" r="3.5"/></g>
+    <rect x="30" y="32" width="53" height="26" rx="13" fill="#351522" fill-opacity="0.55" stroke="#C7798D" stroke-opacity="0.6"/>
+    <text x="43" y="49" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#E6A6B4">web</text>
+    <text x="30" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#FFF5F6">sandeshig.github.io</text>
+    <text x="32" y="139" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#E6A6B4">GitHub Pages site with a custom domain</text>
+  </g>
+  <rect x="0.75" y="0.75" width="598.5" height="188.5" rx="15.5" fill="none" stroke="#C7798D" stroke-opacity="0.45" stroke-width="1.5"/>
+</svg>

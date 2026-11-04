@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="ARP Monitor: real-time ARP spoofing detection and LAN intrusion monitoring">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#351522"/>
+      <stop offset="1" stop-color="#8F3D56"/>
+    </linearGradient>
+    <radialGradient id="g" cx="0.85" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A64D65" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A64D65" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c"><rect width="1200" height="280" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#g)"/>
+    <g fill="none" stroke="#E6A6B4" stroke-width="1.2" stroke-linejoin="round" opacity="0.3"><path d="M1080 192 L1008 192 L1008 240 L1080 240"/><path d="M792 192 L792 280 L792 256 L792 232 L744 232"/><path d="M744 168 L744 168 L864 168 L744 168"/><path d="M936 144 L936 72 L792 72 L744 72 L744 96"/><path d="M960 144 L960 96 L840 96"/><path d="M1032 144 L864 144 L768 144 L816 144"/><path d="M840 72 L744 72 L744 24 L744 24 L744 120"/><path d="M816 144 L816 72 L816 96 L960 96"/><path d="M1176 24 L1176 0 L1200 0"/><path d="M1032 24 L984 24 L984 120"/><path d="M840 216 L840 120 L744 120 L744 72"/><path d="M864 240 L984 240 L984 264 L840 264 L840 168"/><path d="M936 144 L768 144 L768 96 L744 96 L744 96"/><path d="M744 24 L744 24 L840 24 L840 0"/></g><g fill="none" stroke="#E6A6B4" stroke-width="1.2" opacity="0.3"><circle cx="1080" cy="240" r="3.5"/><circle cx="744" cy="232" r="3.5"/><circle cx="744" cy="168" r="3.5"/><circle cx="744" cy="96" r="3.5"/><circle cx="840" cy="96" r="3.5"/><circle cx="816" cy="144" r="3.5"/><circle cx="744" cy="120" r="3.5"/><circle cx="960" cy="96" r="3.5"/><circle cx="1200" cy="0" r="3.5"/><circle cx="984" cy="120" r="3.5"/><circle cx="744" cy="72" r="3.5"/><circle cx="840" cy="168" r="3.5"/><circle cx="744" cy="96" r="3.5"/><circle cx="840" cy="0" r="3.5"/></g>
+    <rect x="60" y="47" width="233" height="26" rx="13" fill="#351522" fill-opacity="0.55" stroke="#C7798D" stroke-opacity="0.6"/>
+    <text x="73" y="64" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#E6A6B4">featured: cybersecurity</text>
+    <text x="60" y="154" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#FFF5F6">ARP Monitor</text>
+    <text x="62" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#E6A6B4">Real-time ARP spoofing detection and LAN intrusion monitoring</text>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="278.5" rx="15.5" fill="none" stroke="#C7798D" stroke-opacity="0.45" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 190" width="600" height="190" role="img" aria-label="Ethics Assignment">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#351522"/>
+      <stop offset="1" stop-color="#8F3D56"/>
+    </linearGradient>
+    <radialGradient id="g" cx="0.85" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A64D65" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A64D65" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c"><rect width="600" height="190" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="600" height="190" fill="url(#bg)"/>
+    <rect width="600" height="190" fill="url(#g)"/>
+    <g fill="none" stroke="#E6A6B4" stroke-width="1.2" stroke-linejoin="round" opacity="0.3"><path d="M576 48 L456 48 L456 24 L456 0 L372 0"/><path d="M552 0 L432 0 L504 0 L504 0 L504 48"/><path d="M408 0 L372 0 L372 72"/><path d="M432 96 L432 48 L432 120 L504 120 L504 144"/><path d="M480 48 L480 72 L600 72 L600 0 L552 0"/><path d="M456 0 L504 0 L504 72 L384 72 L372 72"/><path d="M432 0 L432 72 L432 168"/><path d="M384 96 L384 168 L372 168 L444 168 L372 168"/></g><g fill="none" stroke="#E6A6B4" stroke-width="1.2" opacity="0.3"><circle cx="372" cy="0" r="3.5"/><circle cx="504" cy="48" r="3.5"/><circle cx="372" cy="72" r="3.5"/><circle cx="504" cy="144" r="3.5"/><circle cx="552" cy="0" r="3.5"/><circle cx="372" cy="72" r="3.5"/><circle cx="432" cy="168" r="3.5"/><circle cx="372" cy="168" r="3.5"/></g>
+    <rect x="30" y="32" width="98" height="26" rx="13" fill="#351522" fill-opacity="0.55" stroke="#C7798D" stroke-opacity="0.6"/>
+    <text x="43" y="49" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#E6A6B4">academic</text>
+    <text x="30" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#FFF5F6">Ethics Assignment</text>
+    <text x="32" y="139" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#E6A6B4">Presentation slides and PDF</text>
+  </g>
+  <rect x="0.75" y="0.75" width="598.5" height="188.5" rx="15.5" fill="none" stroke="#C7798D" stroke-opacity="0.45" stroke-width="1.5"/>
+</svg>
